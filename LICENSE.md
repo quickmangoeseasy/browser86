@@ -1,7 +1,7 @@
 BROWSER-X86 SOURCE-AVAILABLE LICENSE
 Version 1.0
 
-Copyright (c) 2026 [YOUR NAME OR GITHUB USERNAME]
+Copyright (c) 2026 Aavyaan Sharma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
@@ -87,13 +87,11 @@ for your modified version, provided that you do not falsely imply that the
 original project authors endorse, sponsor, or officially distribute your
 version.
 
-7. NO TRADEMARK LICENSE
+7. Trademark License
 
-This license does not grant permission to use any trademarks, logos, or
-branding belonging to the original project or its contributors, except as
-reasonably necessary to identify the Software.
+You are allowed to trademark this GitHub repository ONLY if you had made one of the Meaningful Additions as listed above.
 
-8. NO WARRANTY
+9. NO WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
